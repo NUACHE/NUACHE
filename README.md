@@ -45,27 +45,13 @@
 
 ---
 
-### 📕 Latest Blog Posts
-
----
-
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-2. 🗣 Commented on [#4](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/4) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-3. ❗️ Closed issue [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-4. 🗣 Commented on [#3](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/3) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-5. 🗣 Commented on [#1](https://github.com/codeSTACKr/video-source-code-create-nft-collection/issues/1) in [codeSTACKr/video-source-code-create-nft-collection](https://github.com/codeSTACKr/video-source-code-create-nft-collection)
-<!--END_SECTION:activity-->
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NUACHE&show_icons=true&hide_border=true" />
 
 </details>
 
