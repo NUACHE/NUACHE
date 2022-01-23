@@ -4,6 +4,9 @@
 
 ## I'm a Developer, and Student!!
 
+![GitHub Views](https://komarev.com/ghpvc/?username=<nuache>)
+
+
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with other content creators
