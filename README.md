@@ -4,7 +4,7 @@
 
 ## I'm a Developer, and Student!!
 
-![GitHub Views](https://komarev.com/ghpvc/?username=nuache)
+
 
 
 
@@ -28,6 +28,8 @@
 
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NUACHE&show_icons=true&hide_border=false&count_private=true" />
+  
+  ![GitHub Views](https://komarev.com/ghpvc/?username=nuache)
 
 
 
