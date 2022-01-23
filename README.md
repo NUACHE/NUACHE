@@ -4,7 +4,7 @@
 
 ## I'm a Developer, and Student!!
 
-![GitHub Views](https://komarev.com/ghpvc/?username=<nuache>)
+![GitHub Views](https://komarev.com/ghpvc/?username=nuache)
 
 
 
