@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer, and Student!!
+## I'm a Developer!
 
 
 
