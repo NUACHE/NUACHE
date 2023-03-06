@@ -24,8 +24,7 @@
 
  
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NUACHE" />
-
+  
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NUACHE&show_icons=true&hide_border=false&count_private=true" />
   
