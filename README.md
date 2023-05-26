@@ -8,7 +8,7 @@
 
 
 
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other organizations
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
 
