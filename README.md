@@ -8,15 +8,15 @@
 # 💻 Tech Stack:
 ---
 #### 🦾 Languages
-[![My Skills](https://skillicons.dev/icons?i=c,cs,css,dart,html,js,php,py,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,css,dart,html,js,ts)](https://skillicons.dev)
 
 ---
 #### 🚧 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=arduino,bootstrap,dotnet,flutter,jquery,laravel,nextjs,react,redux,regex,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,jquery,nextjs,react,redux,tailwind)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,git,github,githubactions,gitlab,postman,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,postman)](https://skillicons.dev)
 
 ---
 #### 🗄 Database
