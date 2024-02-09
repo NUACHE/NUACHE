@@ -8,11 +8,11 @@
 # 💻 Tech Stack:
 ---
 #### 🦾 Languages
-[![My Skills](https://skillicons.dev/icons?i=cs,css,dart,html,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,dart,html,js,php,ts)](https://skillicons.dev)
 
 ---
 #### 🚧 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=dotnet,flutter,jquery,nextjs,react,redux,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,jquery,laravel,nextjs,react,redux,tailwind)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
