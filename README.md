@@ -2,10 +2,10 @@
 👯 I’m looking to collaborate on open source projects<br>💬 Ask me about Dart, Flutter, Javascript, Typescript and React<br>
 <img width="400" align="right" src="https://firebasestorage.googleapis.com/v0/b/dashatar-dev.appspot.com/o/dashatars%2FRGFzaGF0YXJfRGV2ZWxvcGVyX092ZXJJdF9jb2xvcl9QTl9zaGFkb3c=.png?alt=media" />
 
-## 🌐 Socials:
+#### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michael-opoku-98a1221a5) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14067795) 
 
-# 💻 Tech Stack:
+#### 💻 Tech Stack:
 ---
 #### 🦾 Languages
 [![My Skills](https://skillicons.dev/icons?i=css,dart,html,js,php,ts)](https://skillicons.dev)
