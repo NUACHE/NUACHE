@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on open source projects<br>💬 Ask me about Dart, Flutter, Javascript, Typescript and React<br>
+👯 I’m looking to collaborate on open source projects<br>💬 Ask me about Dart, Flutter<br>
 <img width="400" align="right" src="https://firebasestorage.googleapis.com/v0/b/dashatar-dev.appspot.com/o/dashatars%2FRGFzaGF0YXJfRGV2ZWxvcGVyX092ZXJJdF9jb2xvcl9QTl9zaGFkb3c=.png?alt=media" />
 
 #### 🌐 Socials:
