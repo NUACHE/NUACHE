@@ -12,7 +12,7 @@
 
 ---
 #### 🚧 Frameworks & Libraries
-[![My Skills](https://skillicons.dev/icons?i=flutter,jquery,laravel,nextjs,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,nextjs,react,tailwind)](https://skillicons.dev)
 
 ---
 #### 🧬 Tools & Programs
