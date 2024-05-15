@@ -8,7 +8,7 @@
 #### 💻 Tech Stack:
 ---
 #### 🦾 Languages
-[![My Skills](https://skillicons.dev/icons?i=css,dart,html,js,php,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=css,dart,html,js)](https://skillicons.dev)
 
 ---
 #### 🚧 Frameworks & Libraries
